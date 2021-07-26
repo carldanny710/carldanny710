@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carldanny710
 - 👀 I’m interested in Data Science as well as cloud computing
-- 🌱 I’m currently learning R
+- 🌱 I’m currently learning data science in R
 - 💞️ I’m looking to collaborate on any data analytics projects
 - 📫 How to reach me is by email @dcarlsonakaolisa@gmail.com
 
